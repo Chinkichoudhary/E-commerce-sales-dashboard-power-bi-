@@ -142,4 +142,5 @@ Future Enhancements:
 Screenshot /Demos:
 
 show what the dashboard look like:
- Example:
+ Example:[https://github.com/Chinkichoudhary/E-commerce-sales-dashboard-power-bi-/blob/main/dashboard_screenshot.png] ( dashboard preview)
+ 
