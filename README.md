@@ -137,3 +137,9 @@ Future Enhancements:
 * Implement Power BI forecasting and RLS.
 * Publish to Power BI Service with scheduled data refresh.
 * Enhance UI with advanced tooltips.
+
+
+Screenshot /Demos:
+
+show what the dashboard look like:
+ Example:
