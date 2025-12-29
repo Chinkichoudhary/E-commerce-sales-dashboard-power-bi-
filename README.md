@@ -37,12 +37,15 @@ The goal is to help business users track sales performance, identify trends, and
          Sales, Profit, Quantity
          Growth comparison
          Performance by region, product, and staff
+
 2️⃣ Data Import into MS SQL Server
      Imported raw E-commerce dataset into MS SQL Server
      Verified data types and table structure
+
 3️⃣ Connecting Power BI to SQL Server
      Connected Power BI to SQL Server database
      Used Direct Import for analysis
+
 4️⃣ Data Cleaning (Power Query)
      Performed data preparation tasks:
           Removed duplicates
@@ -50,14 +53,17 @@ The goal is to help business users track sales performance, identify trends, and
           Standardized column names
           Corrected data types
           Filtered invalid records
+
 5️⃣ Data Processing
     Created derived columns
     Prepared date hierarchy
     Structured data for analytics
+
 6️⃣ Data Modeling
     Built relationships between fact and dimension tables
     Applied star schema
     Ensured proper cardinality and filter direction
+
 7️⃣ DAX Measures Creation
     Created important business measures such as:
          YTD Sales
@@ -66,6 +72,7 @@ The goal is to help business users track sales performance, identify trends, and
          YTD Profit Margin
          PYTD (Previous Year-to-Date) Sales
          YoY Sales Growth %
+
 8️⃣ Data Visualization
     Designed visuals including:
          KPI cards
@@ -73,38 +80,47 @@ The goal is to help business users track sales performance, identify trends, and
          Line charts
          Sparklines
          Maps
+
 9️⃣ Dashboard Creation
      Built a fully interactive dashboard with:
          Filters & slicers
          Drill-down capability
          Dynamic KPI banners
+
 🔟 Insight Generation
       Extracted meaningful insights to answer business questions and highlight performance trends.
 
 
 📈 Key Dashboard Features
+
 🔹 KPI Banner
       Displays:
             YTD Sales
             YTD Profit
             YTD Quantity Sold
             YTD Profit Margin
+
 🔹 Year-on-Year Analysis
       YoY growth calculated for each KPI
       YTD sparklines to show monthly trends
+
 🔹 Regional Analysis
       YTD Sales by Region
       Identify best & worst performing regions
       Sales performance across countries
+
 🔹 Product Analysis
       Top 5 & Bottom 5 Products by Sales
       Category-wise performance
+
 🔹 Shipping Type Analysis
       YTD Sales by Shipping Type
       Contribution percentage of each shipping method
+
 🔹 Customer Category Analysis
       YTD & PYTD Sales by customer category
       Brand icons added for better visualization
+
 🔹 Sales Representative Performance
       YTD Sales performance by each sales staff
        Comparison across representatives
